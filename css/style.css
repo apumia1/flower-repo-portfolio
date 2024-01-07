@@ -1,0 +1,237 @@
+.flower-shop {
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    background: #FFF;
+
+
+}
+
+.img-ho {
+    width: 635px;
+    height: 800px;
+}
+
+.flower {
+    margin-right: 20px;
+}
+
+.btn-primary {
+    color: #FFF;
+    background: #E55473;
+    border-radius: 8px;
+    padding: 15px 15px;
+}
+
+.title {
+    width: 708px;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+
+}
+
+.title-features {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+    font-size: 18px;
+
+    font-weight: 400;
+
+}
+
+.feature {
+    margin-top: 100px;
+}
+
+.bro {
+    /* margin-right: 30px; */
+    background: #FFF;
+    padding: 20px 20px 20px 20px;
+    /* justify-content: space-between;
+    margin-right: 200px;
+    width: 310px;
+    height: 428px; */
+    align-items: center;
+
+}
+
+.buyer-tell {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+
+    font-size: 24px;
+
+    font-weight: 600;
+
+}
+
+.buyer-tell {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 100px;
+    padding: 50px;
+    gap: 20px;
+
+}
+
+.apu-flower {
+    text-align: center;
+}
+
+.instra-com {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 620px;
+    display: flex;
+    border-radius: 8px;
+    padding: 50px;
+    text-align: center;
+    margin-right: 80px;
+
+
+}
+
+h3 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+    font-size: 18px;
+
+    font-weight: 400;
+
+
+}
+
+.color-bro {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.instra-title {
+    text-align: center;
+    gap: 20px;
+}
+
+.asmani-tot {
+    width: 318px;
+    height: 420px;
+
+}
+
+h3,
+h4 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.flown {
+    gap: 10px;
+    width: 200px;
+    height: 300px;
+    padding: 50px;
+    align-items: center;
+}
+
+.apuuuu-instra {
+    background-image: url(../Rectangle\ 9.png);
+    width: 1440px;
+    height: 449px;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-image: cover;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+
+}
+
+.email-ro {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+    text-align: center;
+}
+
+.from-bro {
+    text-align: center;
+}
+
+.long-bro {
+
+    width: 1922px;
+    height: 449px;
+
+    background: #111010;
+    /* text-align: center; */
+
+
+}
+
+.fl-lg {
+    color: #E55473;
+
+    font-size: 48px;
+
+    font-weight: 800;
+
+}
+
+h5 {
+    color: rgba(255, 255, 255, 0.90);
+
+
+    font-size: 18px;
+
+    font-weight: 400;
+    /* align-items: center; */
+    width: 625px;
+
+
+}
+
+.bg-bro {
+    margin-top: 100px;
+    text-align: center;
+}
+
+h2,
+h5 {
+    width: 260px;
+    height: 58px;
+    text-align: center;
+    margin-left: 100px;
+    padding: 20px;
+}
